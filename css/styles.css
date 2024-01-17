@@ -43,7 +43,14 @@ a{
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-
+.header-socials-list{
+    color:  #FFF;
+        text-align: center;
+        font-size: 56px;
+        font-weight: 700;
+        line-height: 1.07;
+        letter-spacing: 0.2em;
+}
 .logo-header{
   
     color:  #4D5AE5;
