@@ -21,10 +21,17 @@ a{
 .address:active {
     color: #404bbf;
 }
-
-.header-menu-item{
+.header-menu-link:hover {
+    color: #404bbf;
+}
+.header-menu-link:active {
+    color: #404bbf;
+}
+.header-menu-link{
     color: #2E2F42;
+    font-family: "Raleway", sans-serif;
         font-size: 16px;
+        text-align: center;
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.03em;    
@@ -49,29 +56,15 @@ a{
 }
 .logo-header-two{
     color:  #2E2F42;
-        font-family: "Raleway", sans-serif;
+      
         font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
 }
-.header-menu-link:hover{
-    background-color: #404bbf;
-}
-.header-menu-link:active{
-    color: #404bbf;
 
 
-}
-.header-menu-link{
-    color: #2e2f42;
-        text-align: center;
-        font-size: 56px;
-        font-weight: 700;
-        line-height: 1.07;
-        letter-spacing: 0.02em;
-}
 .main-beginning{
     background: #2E2F42;
 
