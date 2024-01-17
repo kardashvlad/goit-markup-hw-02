@@ -21,11 +21,14 @@ a{
 .header-socials-link:active {
     color: #404bbf;
 }
-.header-menu-list:hover{
+.header-menu-link:hover{
     color: #404bbf;
 }
-.header-menu-list:active {
+.header-menu-link:active {
     color: #404bbf;
+}
+.header-address{
+    font-style: normal;
 }
 .header-menu-link{
     color: #2E2F42;
@@ -34,7 +37,7 @@ a{
         text-align: center;
         font-weight: 500;
         line-height: 1.5;
-        letter-spacing: 0.03em;    
+        letter-spacing: 0.02em;    
 }
 .header-socials-item{
     color: #434455;
