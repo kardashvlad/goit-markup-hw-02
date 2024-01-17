@@ -43,14 +43,7 @@ a{
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-.header-socials-list{
-    color:  #FFF;
-        text-align: center;
-        font-size: 56px;
-        font-weight: 700;
-        line-height: 1.07;
-        letter-spacing: 0.2em;
-}
+
 .logo-header{
   
     color:  #4D5AE5;
@@ -72,8 +65,15 @@ a{
 }
 
 
-.main-beginning{
-    background: #2E2F42;
+.main-beginning-title{
+    color: #FFF;
+    background-color: #2E2F42;
+        text-align: center;
+        font-family: Roboto;
+        font-size: 56px;
+        font-weight: 700;
+        line-height: 1.07;
+        letter-spacing: 0.2em;
 
 }
 .main-beginning-button{
