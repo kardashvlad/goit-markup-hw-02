@@ -10,21 +10,21 @@ ul{
 a{
     text-decoration: none;
 }
-.address{
+.header-socials-link{
     font-style: normal;
     letter-spacing: 0.02em;
     color :#434455;
 }
-.address:hover {
+.header-socials-link:hover {
     color: #404bbf;
 }
-.address:active {
+.header-socials-link:active {
     color: #404bbf;
 }
-.header-menu-link:hover {
+.header-menu-list:hover{
     color: #404bbf;
 }
-.header-menu-link:active {
+.header-menu-list:active {
     color: #404bbf;
 }
 .header-menu-link{
@@ -64,16 +64,18 @@ a{
         text-transform: uppercase;
 }
 
-
+.main-beginning{
+background-color: #2e2f42;
+}
 .main-beginning-title{
     color: #FFF;
-    background-color: #2E2F42;
+    
         text-align: center;
         font-family: Roboto;
         font-size: 56px;
         font-weight: 700;
         line-height: 1.07;
-        letter-spacing: 0.2em;
+        letter-spacing: 0.02em;
 
 }
 .main-beginning-button{
@@ -164,9 +166,8 @@ color:  #434455;
     background-color: #2e2f42;
 }
 .logo-footer{
-    color:  #4D5AE5;
-       
-    font-family: 'Roboto', sans-serif;
+    color: #4D5AE5;
+        font-family: "Raleway", sans-serif;
         font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
@@ -175,17 +176,16 @@ color:  #434455;
 }
 .logo-footer-two{
     color: #F4F4FD;
-    font-family: 'Roboto', sans-serif;
-        font-size: 18px;
+    font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
 }
+
 .footer-text{
     
 color: #F4F4FD;
-
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
