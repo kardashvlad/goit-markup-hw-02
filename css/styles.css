@@ -13,6 +13,7 @@ a{
 address{
     font-style: normal;
 }
+
 .header-menu-item{
     color: #2E2F42;
         font-size: 16px;
@@ -25,7 +26,7 @@ address{
         font-size: 16px;
         font-weight: 400;
         line-height: 1.5;
-        letter-spacing: -0.02em;
+        letter-spacing: 0.02em;
 }
 
 .logo-header{
@@ -35,7 +36,7 @@ address{
         font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
-        letter-spacing: -0.03em;
+        letter-spacing: 0.03em;
         text-transform: uppercase;
 }
 .logo-header-two{
@@ -48,10 +49,11 @@ address{
         text-transform: uppercase;
 }
 .header-menu-link:hover{
-    color: #404bbf;
+    background-color: #404bbf;
 }
 .header-menu-link:active{
-    color: #404bbf;
+    background: #404bbf;
+
 
 }
 .main-beginning-title{
