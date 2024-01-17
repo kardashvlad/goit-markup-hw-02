@@ -2,7 +2,7 @@ body {
 color: #434455;
 background-color : #FFFFFF;
 font-family: 'Raleway', sans-serif;
-    font-family: 'Roboto', sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 ul{
     list-style-type: none;
@@ -16,7 +16,7 @@ a{
         font-size: 16px;
         font-weight: 500;
         line-height: 1.5;
-        letter-spacing: -0.02em;    
+        letter-spacing: 0.03em;    
 }
 .header-socials-item{
     color: #434455;
@@ -130,7 +130,7 @@ color:  #434455;
     line-height: 1.5;
     letter-spacing:-0.02em;
 }
-.logo-footer-one{
+.logo-footer{
     color:  #4D5AE5;
         font-family: Raleway;
         font-size: 18px;
@@ -144,15 +144,16 @@ color:  #434455;
         font-family: Raleway;
         font-size: 18px;
         font-weight: 700;
-        line-height: 1.16;
-        letter-spacing: -0.03em;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
         text-transform: uppercase;
 }
 .footer-text{
 color: #F4F4FD;
+background-color:  #2e2f42;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
 }
 
