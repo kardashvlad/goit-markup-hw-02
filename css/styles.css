@@ -18,13 +18,13 @@ a{
 .header-socials-link:hover {
     color: #404bbf;
 }
-.header-socials-link:active {
+.header-socials-link:focus{
     color: #404bbf;
 }
 .header-menu-link:hover{
     color: #404bbf;
 }
-.header-menu-link:active {
+.header-menu-link:focus {
     color: #404bbf;
 }
 .header-address{
