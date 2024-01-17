@@ -10,8 +10,16 @@ ul{
 a{
     text-decoration: none;
 }
-address{
+.address{
     font-style: normal;
+    letter-spacing: 0.02em;
+    color :#434455;
+}
+.address:hover {
+    color: #404bbf;
+}
+.address:active {
+    color: #404bbf;
 }
 
 .header-menu-item{
@@ -52,12 +60,12 @@ address{
     background-color: #404bbf;
 }
 .header-menu-link:active{
-    background: #404bbf;
+    color: #404bbf;
 
 
 }
-.main-beginning-title{
-    color:  #FFF;
+.header-menu-link{
+    color: #2e2f42;
         text-align: center;
         font-size: 56px;
         font-weight: 700;
@@ -127,7 +135,7 @@ color:  #2E2F42;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.02em;
 }
 .main-team-profession{
 color:  #434455;
@@ -167,7 +175,7 @@ color:  #434455;
 }
 .logo-footer-two{
     color: #F4F4FD;
-   
+    font-family: 'Roboto', sans-serif;
         font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
